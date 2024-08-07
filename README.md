@@ -4,4 +4,6 @@
 
 I work as a security engineer with a focus on cloud and infrastructure security. 
 
-- 🕸️ Check out my website, [TechwithTyler](https://www.techwithtyler.dev)
+- 🕸️ Connect with me on [LinkedIn](http://linkedin.com/in/typetty)
+
+- 🕸️ Check out my blog, [TechwithTyler](https://www.techwithtyler.dev)
